@@ -89,7 +89,7 @@ PRODUCT_PACKAGES += \
 # Overlays
 DEVICE_PACKAGE_OVERLAYS += \
     $(DEVICE_PATH)/overlay \
-    $(DEVICE_PATH)/overlay-aosp
+    $(DEVICE_PATH)/overlay-lineage
 
 # Permissions
 PRODUCT_COPY_FILES += \
