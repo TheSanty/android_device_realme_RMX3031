@@ -127,6 +127,7 @@ PRODUCT_PACKAGES += \
 
 # Telephony
 PRODUCT_BOOT_JARS += \
+    ImsServiceBase \
     mediatek-common \
     mediatek-framework \
     mediatek-ims-base \
